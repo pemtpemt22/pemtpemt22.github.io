@@ -1,6 +1,6 @@
-baseURL: "https://pemtpemt21.github.io/"
+baseURL: "https://pemtpemt22.github.io/"
 languageCode: ko
-title: "pemtpemt21 blog"
+title: "pemtpemt22 blog"
 theme: PaperMod
 paginate: 10
 
@@ -11,7 +11,7 @@ buildFuture: false
 params:
   env: production
   author:
-    name: pemtpemt21
+    name: pemtpemt22
   defaultTheme: auto
   ShowReadingTime: true
   ShowShareButtons: false
