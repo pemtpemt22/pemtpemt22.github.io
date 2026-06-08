@@ -20,7 +20,7 @@ categories: ["추천모음"]
 <li><a href="https://pemtpemt20.github.io/posts/" rel="nofollow">가구/인테리어·도서 추천</a></li>
 <li><a href="https://pemtpemt21.github.io/posts/" rel="nofollow">면세점 추천</a></li>
 <li><a href="https://pemtpemt31.github.io/posts/" rel="nofollow">종합 쇼핑 추천</a></li>
-<li><a href="https://pemtpemt32.github.io/posts/" rel="nofollow">종합 쇼핑 추천</a></li>
-<li><a href="https://pemtpemt51.github.io/posts/" rel="nofollow">종합 쇼핑 추천</a></li>
-<li><a href="https://pemtpemt52.github.io/posts/" rel="nofollow">종합 쇼핑 추천</a></li>
+<li><a href="https://pemtpemt32.github.io/posts/" rel="nofollow">인기 상품 베스트</a></li>
+<li><a href="https://pemtpemt51.github.io/posts/" rel="nofollow">추천 상품 셀렉션</a></li>
+<li><a href="https://pemtpemt52.github.io/posts/" rel="nofollow">종합 쇼핑 가이드</a></li>
 </ul>
