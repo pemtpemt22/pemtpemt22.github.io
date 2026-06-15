@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "콘센트"]
 keywords: ["콘센트", "Top10", "shopping"]
 author: "pemtpemt22"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "콘센트 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 멀티탭은 현대 생활에 필수적인 제품입니다. 여러 전자기기를 동시에 충전해야 하는 상황이 많아지면서, 고속충전 기능과 안정적인 전력 공급 능력을 갖춘 제품의 수요가 증가하고 있습니다.…"
+summary: "콘센트 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 멀티탭은 현대 생활에 필수적인 제품입니다. 여러 전자기기를 동시에 충전해야 하는 상황이 많아지면서, 고속충전 기능과 안정적인 전력 공급 능력을 갖춘 제품의 수요가 증가하고 있습니다.…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/307f/6eb4c47e9639a0bb083b1cea6b683a76603339d75cc452e335f376f25c84.jpg"
   alt: "콘센트 추천 TOP10 — ORDFLES C타입 고속충전 PD20W USB 멀티탭"
