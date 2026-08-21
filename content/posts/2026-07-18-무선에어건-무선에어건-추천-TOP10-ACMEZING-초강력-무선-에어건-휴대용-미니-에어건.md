@@ -1,13 +1,14 @@
 ---
-title: "무선에어건 추천 TOP10 — ACMEZING 초강력 무선 에어건 휴대용 미니 에어건"
+title: "무선에어건 추천 TOP10 — 2026년 8월 기준"
 date: 2026-07-18T15:38:24+09:00
+lastmod: 2026-08-22
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "무선에어건"]
 keywords: ["무선에어건", "Top10", "shopping"]
 author: "pemtpemt22"
-description: "무선에어건 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 무선에어건은 차량 내부, 키보드, 창틀처럼 손이 닿기 어려운 먼지를 빠르게 날려주는 실용적인 청소 도구입니다. 구매 전에는 풍량, 배터리 지속시간, 휴대성, 노즐 구성을 함께…"
-summary: "무선에어건 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 무선에어건은 차량 내부, 키보드, 창틀처럼 손이 닿기 어려운 먼지를 빠르게 날려주는 실용적인 청소 도구입니다. 구매 전에는 풍량, 배터리 지속시간, 휴대성, 노즐 구성을 함께…"
+description: "무선에어건 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+summary: "무선에어건 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/b61f/9434564b72542dbb342dd9ab927c54d826da02597b4bab712f7905162af2.jpg"
   alt: "무선에어건 추천 TOP10 — ACMEZING 초강력 무선 에어건 휴대용 미니 에어건"
