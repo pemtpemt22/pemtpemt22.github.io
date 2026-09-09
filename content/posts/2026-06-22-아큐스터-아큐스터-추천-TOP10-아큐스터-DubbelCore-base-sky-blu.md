@@ -1,14 +1,14 @@
 ---
-title: "아큐스터 추천 TOP10 — 2026년 8월 기준"
+title: "아큐스터 추천 TOP10 — 2026년 9월 기준"
 date: 2026-06-22T15:44:44+09:00
-lastmod: 2026-08-10
+lastmod: 2026-09-10
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "아큐스터"]
 keywords: ["아큐스터", "Top10", "shopping"]
 author: "pemtpemt22"
-description: "아큐스터 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
-summary: "아큐스터 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+description: "아큐스터 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+summary: "아큐스터 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/7d6d/59ec079e532504b5b0b8f51439463c7006542c6d45e10c704b6b1dd88fb9.jpg"
   alt: "아큐스터 추천 TOP10 — 아큐스터 Dubbel-Core base, sky blu"
